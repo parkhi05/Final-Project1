@@ -1,0 +1,61 @@
+
+
+
+p
+{
+	
+	color:red;
+	margin-left:55px;
+}
+.logo img
+{
+
+
+}
+.mymain p
+{
+	text-align:center;
+	display:block;
+	background-color:gray;
+	
+	
+}
+.row-content h2
+{
+	display:block;
+	border:1px dotted black;
+	background-color:
+	text-decoration:none;
+	font-family:serif;
+}
+
+.mymain h1
+{
+	text-align:center;
+	
+	
+}
+.images img
+{
+	margin-left:50px;
+	 background-repeat: no-repeat;
+    background-origin: padding-box;
+	border:2px solid red;
+	
+	
+}
+.images p
+{
+	text-align:center;
+	color:blue;
+padding-right:90px;
+}
+
+
+.bckimg 
+{
+	 background-image: url("aboutimg.jpg");
+	 height:auto;
+	 width:100%;
+	
+}
